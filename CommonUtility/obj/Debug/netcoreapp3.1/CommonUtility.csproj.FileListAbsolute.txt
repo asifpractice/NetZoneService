@@ -1,0 +1,9 @@
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\netcoreapp3.1\CommonUtility.deps.json
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\netcoreapp3.1\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\netcoreapp3.1\CommonUtility.pdb
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.csprojAssemblyReference.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.AssemblyInfoInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.AssemblyInfo.cs
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\netcoreapp3.1\CommonUtility.pdb

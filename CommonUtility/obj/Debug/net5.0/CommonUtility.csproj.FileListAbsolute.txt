@@ -1,0 +1,12 @@
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\net5.0\CommonUtility.deps.json
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\net5.0\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\net5.0\ref\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\bin\Debug\net5.0\CommonUtility.pdb
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.csprojAssemblyReference.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.AssemblyInfoInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.AssemblyInfo.cs
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\ref\CommonUtility.dll
+F:\Projects_New\NetZone\NetZoneApplication\CommonUtility\obj\Debug\net5.0\CommonUtility.pdb

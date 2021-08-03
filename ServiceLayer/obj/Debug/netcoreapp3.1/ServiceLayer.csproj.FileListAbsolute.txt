@@ -1,0 +1,9 @@
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+F:\Projects_New\NetZone\NetZoneApplication\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
