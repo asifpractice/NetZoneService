@@ -38,6 +38,9 @@ namespace NetZoneServices.Controllers
         public IActionResult GetUserList()
         {
             var users = userservice.GetUserList();
+
+
+
             return Ok(users);
         }
 
@@ -46,6 +49,8 @@ namespace NetZoneServices.Controllers
         public IActionResult SaveUserProfile([FromBody] UserProfile user)
         {
             var result = userservice.InsertupdateUserDetails(user);
+
+
             return Ok(result);
         }
     }

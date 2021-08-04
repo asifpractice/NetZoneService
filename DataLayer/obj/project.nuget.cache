@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MkaOFnvlRH9lHbmBLHmw0Uk+sxpucgRnw2QcLxmAIRwKcPUmL4gmKF7JlNDv4Ar3JTv57nG/whO80JswZdDwVQ==",
+  "dgSpecHash": "ZHJ0CCvvjzCHYP0NBn/2cBplZRo3elQDTFy9PUW54jt6MRqQppCqJz6CRlSioBE5nwhQOgRlZ6u3nT3AKUAkqQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj",
+  "projectFilePath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

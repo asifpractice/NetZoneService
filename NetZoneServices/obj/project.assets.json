@@ -1534,19 +1534,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASIF-HOME\\.nuget\\packages\\": {}
+    "C:\\Users\\ASIF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NetZone\\NetZoneApplication\\NetZoneServices\\NetZoneServices.csproj",
+      "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\NetZoneServices\\NetZoneServices.csproj",
       "projectName": "NetZoneServices",
-      "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\NetZoneServices\\NetZoneServices.csproj",
-      "packagesPath": "C:\\Users\\ASIF-HOME\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NetZone\\NetZoneApplication\\NetZoneServices\\obj\\",
+      "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\NetZoneServices\\NetZoneServices.csproj",
+      "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\NetZoneServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASIF-HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1560,11 +1560,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\NetZone\\NetZoneApplication\\BaseEntity\\BaseEntity.csproj": {
-              "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\BaseEntity\\BaseEntity.csproj"
+            "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {
+              "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj"
             },
-            "D:\\Projects\\NetZone\\NetZoneApplication\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\ServiceLayer\\ServiceLayer.csproj"
+            "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }

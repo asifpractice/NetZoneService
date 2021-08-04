@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASIF-HOME\\.nuget\\packages\\": {}
+    "C:\\Users\\ASIF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj",
-      "packagesPath": "C:\\Users\\ASIF-HOME\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\obj\\",
+      "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+      "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASIF-HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\NetZone\\NetZoneApplication\\RepositoryLayer\\RepositoryLayer.csproj": {}
+    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj": {
+    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\ASIF-HOME\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\obj\\",
+        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASIF-HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,17 +58,17 @@
         }
       }
     },
-    "D:\\Projects\\NetZone\\NetZoneApplication\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\NetZone\\NetZoneApplication\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\RepositoryLayer\\RepositoryLayer.csproj",
-        "packagesPath": "C:\\Users\\ASIF-HOME\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\NetZone\\NetZoneApplication\\RepositoryLayer\\obj\\",
+        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASIF-HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\Projects\\NetZone\\NetZoneApplication\\DataLayer\\DataLayer.csproj"
+              "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj"
               }
             }
           }
