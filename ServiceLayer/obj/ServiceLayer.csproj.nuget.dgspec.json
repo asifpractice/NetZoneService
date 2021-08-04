@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj": {}
+    "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {
+    "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj",
         "projectName": "BaseEntity",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
+    "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj"
+              "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj": {
+    "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\ServiceLayer\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,14 +226,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {
-                "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj"
+              "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj": {
+                "projectPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj"
               },
-              "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj"
+              "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj"
               },
-              "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj"
+              "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {}
+    "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj": {
+    "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\DataLayer.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\DataLayer\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",

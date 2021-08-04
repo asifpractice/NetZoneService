@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {}
+    "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {
+    "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj",
+        "projectUniqueName": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj",
         "projectName": "BaseEntity",
-        "projectPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\BaseEntity.csproj",
+        "projectPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NetZoneApplication\\API\\NetZoneService\\BaseEntity\\obj\\",
+        "outputPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
