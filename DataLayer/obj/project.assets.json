@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj",
+      "projectPath": "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\API_NETZONE\\DataLayer\\obj\\",
+      "outputPath": "E:\\New folder\\NetZoneService\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",

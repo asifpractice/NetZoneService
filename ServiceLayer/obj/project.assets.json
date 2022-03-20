@@ -1175,11 +1175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj",
+      "projectUniqueName": "E:\\New folder\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "F:\\Projects\\API_NETZONE\\ServiceLayer\\ServiceLayer.csproj",
+      "projectPath": "E:\\New folder\\NetZoneService\\ServiceLayer\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\API_NETZONE\\ServiceLayer\\obj\\",
+      "outputPath": "E:\\New folder\\NetZoneService\\ServiceLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1196,14 +1196,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj": {
-              "projectPath": "F:\\Projects\\API_NETZONE\\BaseEntity\\BaseEntity.csproj"
+            "E:\\New folder\\NetZoneService\\BaseEntity\\BaseEntity.csproj": {
+              "projectPath": "E:\\New folder\\NetZoneService\\BaseEntity\\BaseEntity.csproj"
             },
-            "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj"
+            "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj"
             },
-            "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj"
+            "E:\\New folder\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "E:\\New folder\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj"
             }
           }
         }
