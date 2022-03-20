@@ -596,11 +596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectUniqueName": "E:\\New folder\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
       "projectName": "RepositoryLayer",
-      "projectPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectPath": "E:\\New folder\\NetZoneService\\RepositoryLayer\\RepositoryLayer.csproj",
       "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\API_NETZONE\\RepositoryLayer\\obj\\",
+      "outputPath": "E:\\New folder\\NetZoneService\\RepositoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -617,8 +617,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "F:\\Projects\\API_NETZONE\\DataLayer\\DataLayer.csproj"
+            "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "E:\\New folder\\NetZoneService\\DataLayer\\DataLayer.csproj"
             }
           }
         }

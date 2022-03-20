@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\API_NETZONE\\CommonUtility\\CommonUtility.csproj": {}
+    "E:\\New folder\\NetZoneService\\CommonUtility\\CommonUtility.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\API_NETZONE\\CommonUtility\\CommonUtility.csproj": {
+    "E:\\New folder\\NetZoneService\\CommonUtility\\CommonUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\API_NETZONE\\CommonUtility\\CommonUtility.csproj",
+        "projectUniqueName": "E:\\New folder\\NetZoneService\\CommonUtility\\CommonUtility.csproj",
         "projectName": "CommonUtility",
-        "projectPath": "F:\\Projects\\API_NETZONE\\CommonUtility\\CommonUtility.csproj",
+        "projectPath": "E:\\New folder\\NetZoneService\\CommonUtility\\CommonUtility.csproj",
         "packagesPath": "C:\\Users\\ASIF\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\API_NETZONE\\CommonUtility\\obj\\",
+        "outputPath": "E:\\New folder\\NetZoneService\\CommonUtility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASIF\\AppData\\Roaming\\NuGet\\NuGet.Config",
